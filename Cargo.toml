@@ -4,3 +4,6 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+librypt-entropy = { version = "^0.1", git = "https://github.com/librypt/librypt-entropy", features = ["os"] }
+librypt-int = { version = "^0.1", git = "https://github.com/librypt/librypt-int" }
+

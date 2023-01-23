@@ -1,0 +1,5 @@
+fn sundaram_sieve(start: u128, end: u128) -> u128 {
+    assert!(start > 1 && start < end);
+
+    todo!()
+}
